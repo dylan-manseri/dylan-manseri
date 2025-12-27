@@ -5,6 +5,8 @@
 
 - 📫 Comment me joindre **manseri.dylan1@gmail.com**
 
+- 👀 **Je suis actuellement à la recherche d'un stage de 4 mois dans le développement informatique.**
+
 <h3 align="left">Contact</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dylan-manseri-281131382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-manseri-281131382" height="30" width="40" /></a>
