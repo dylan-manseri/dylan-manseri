@@ -5,7 +5,7 @@
 
 - 📫 Comment me joindre **manseri.dylan1@gmail.com**
 
-- 👀 **Je suis actuellement à la recherche d'un stage de 4 mois dans le développement informatique.**
+- 👀 **Je suis actuellement à la recherche d'un stage de 4 mois dans l'ingénierie des données / développement informatique**
 
 <h3 align="left">Contact</h3>
 <p align="left">
