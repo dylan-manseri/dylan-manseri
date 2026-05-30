@@ -20,7 +20,7 @@
 
 - 🎓 Étudiant en licence d'informatique à **CY Cergy Paris Université**, délégué de promotion
 - 🛠️ Je construis des **pipelines de données** de bout en bout : API → PostgreSQL → analyse → dashboard
-- 🔭 En ce moment je bosse sur **[val-analytics-pipeline](https://github.com/dylan-manseri/val-analytics-pipeline)** — un pipeline ETL automatisé qui collecte et analyse mes matchs Valorant
+- 🔭 En ce moment je bosse sur **[valorant-analytics-pipeline](https://github.com/dylan-manseri/valorant-analytics-pipeline)** — un pipeline ETL automatisé qui collecte et analyse mes matchs Valorant
 - 🌱 Je creuse le **SQL avancé**, l'orchestration (GitHub Actions) et la visualisation (Streamlit, pandas)
 - 🥋 Hors du clavier : jiu-jitsu brésilien, randonnée et lecture
 - 📫 Pour me joindre : **manseri.dylan1@gmail.com**
@@ -65,8 +65,7 @@
 ### 📊 Mes statistiques GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dylan-manseri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan-manseri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés" />
+  <img src="github-metrics.svg" alt="Statistiques GitHub" />
 </p>
 
 <p align="center">
@@ -78,13 +77,14 @@
 ### 📌 Projet à la une
 
 <p align="center">
-  <a href="https://github.com/dylan-manseri/val-analytics-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylan-manseri&repo=val-analytics-pipeline&theme=tokyonight&hide_border=true" alt="val-analytics-pipeline" />
+  <a href="https://github.com/dylan-manseri/valorant-analytics-pipeline">
+    <img src="https://img.shields.io/badge/valorant--analytics--pipeline-181717?style=for-the-badge&logo=github&logoColor=white" alt="valorant-analytics-pipeline" />
   </a>
 </p>
 
 <p align="center">
-  <i>Pipeline de données Valorant → PostgreSQL → dashboard · Python, Supabase, GitHub Actions</i>
+  Pipeline de données <b>Valorant → PostgreSQL → dashboard</b><br/>
+  <i>Python · Supabase · GitHub Actions · Streamlit</i>
 </p>
 
 ---
