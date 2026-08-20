@@ -1,15 +1,12 @@
 name: Metrics
-
 on:
   # Mise à jour automatique tous les jours à 6h (UTC)
   schedule: [{cron: "0 6 * * *"}]
   # Permet de lancer le workflow à la main depuis l'onglet "Actions"
   workflow_dispatch:
-
 # Nécessaire pour que l'action puisse commit l'image dans le repo
 permissions:
   contents: write
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -19,20 +16,17 @@ jobs:
         with:
           # Token classique à créer (voir instructions) — PAS le GITHUB_TOKEN par défaut
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Nom du fichier image généré et commité dans le repo
           filename: github-metrics.svg
-
           # Ton compte GitHub
           user: dylan-manseri
-
           # Fuseau horaire pour l'affichage des dates
           config_timezone: Europe/Paris
-
           # Sections affichées sur la carte
           base: header, activity, repositories, metadata
-
           # Langages les plus utilisés
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
+          # Inclut la catégorie "data" (SQL, JSON, YAML...) en plus de "programming" et "markup"
+          plugin_languages_categories: data, markup, programming
