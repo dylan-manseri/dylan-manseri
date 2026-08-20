@@ -30,4 +30,4 @@ jobs:
           plugin_languages_sections: most-used
           # Inclut la catégorie "data" (SQL, JSON, YAML...) en plus de "programming" et "markup"
           plugin_languages_categories: data, markup, programming
-          plugin_languages_ignored: css, makefile, cmake
+          plugin_languages_ignored: css, makefile, cmake, hack, typescript
