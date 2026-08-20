@@ -77,12 +77,6 @@
   <img src="github-metrics.svg" alt="Statistiques GitHub" width="100%" />
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dylan-manseri&theme=tokyonight&hide_border=true" alt="Streak GitHub" width="60%" />
-</p>
-
 ---
 
 ### 📌 Projet à la une
